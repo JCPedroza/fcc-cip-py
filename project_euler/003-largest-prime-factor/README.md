@@ -3,7 +3,7 @@
 <h3>References</h3>
 
 <ul>
-  <li><a href="https://projecteuler.net/overview=003">
+  <li><a href="https://projecteuler.net/problem=3">
     Project Euler problem 3
   </a></li>
 
