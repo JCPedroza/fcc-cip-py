@@ -5,6 +5,6 @@
 <h3>References</h3>
 <ul>
   <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">
-    Coding Intervie Prep
+    Coding Interview Prep
   </a></li>
 </ul>
