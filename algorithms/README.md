@@ -1,6 +1,4 @@
-<h1>freeCodeCamp's Coding Interview Prep Solutions in Python</h1>
-
-<h2>Algorithms Collection<h3>
+<h1>Algorithms Collection<h1>
 
 <p>Solutions for the problems in the freeCodeCamp's Coding Interview Prep Algorithms collection, implemented in Python.</p>
 
