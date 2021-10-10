@@ -1,3 +1,10 @@
+"""
+Python has a built-in symmetric difference operator for sets, the
+caret (^) operator.
+"""
+
 from functools import reduce
 
-sym = lambda *args: reduce(lambda acc, cur: acc ^ cur, args)
+
+def sym(*args: set[float]) -> set[float]:
+    return reduce(lambda acc, cur: acc ^ cur, args)

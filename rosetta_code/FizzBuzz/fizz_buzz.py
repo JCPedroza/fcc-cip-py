@@ -1,9 +1,13 @@
-def num_to_fizz_buzz(num):
-    fizz_buzz = ''
-    if num % 3 == 0:
-        fizz_buzz += 'Fizz'
-    if num % 5 == 0:
-        fizz_buzz += 'Buzz'
-    return fizz_buzz if fizz_buzz else str(num)
+def num_to_fb(num: int) -> str:
+    fb = ''
 
-fizz_buzz = lambda: [num_to_fizz_buzz(num) for num in range(1, 101)]
+    if num % 3 == 0:
+        fb += 'Fizz'
+    if num % 5 == 0:
+        fb += 'Buzz'
+
+    return fb or str(num)
+
+
+def fizz_buzz() -> list[str]:
+    return [num_to_fb(num) for num in range(1, 101)]

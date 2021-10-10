@@ -1,8 +1,10 @@
-reverse_str = lambda string: string[::-1]
+def is_num_palindrome(num):
+    return str(num) == str(num)[::-1]
 
-is_num_palindrome = lambda num: str(num) == reverse_str(str(num))
 
-ndigit_range = lambda ndigit: range(10**(ndigit - 1), 10**(ndigit))
+def ndigit_range(ndigit):
+    return range(10**(ndigit - 1), 10**(ndigit))
+
 
 def largest_palindrome_product(ndigit):
     ndigit_nums = ndigit_range(ndigit)
