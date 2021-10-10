@@ -8,8 +8,9 @@
 <p>Create a function that takes two or more arrays and returns an array of their symmetric difference. The returned array must contain only unique values (no duplicates).</p>
 
 <h3>References</h3>
+
 <ul>
   <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference">
-    Find the Symmetric Difference problem at freeCodeCamp
+    Find the Symmetric Difference problem at freeCodeCamp's Coding Interview Prep
   </a></li>
 </ul>
