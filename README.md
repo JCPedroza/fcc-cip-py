@@ -18,6 +18,6 @@
 <h3>References</h3>
 <ul>
   <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">
-    Coding Interview Prep
+    Coding Interview Prep at freeCodeCamp
   </a></li>
 </ul>
