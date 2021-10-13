@@ -6,8 +6,8 @@ portion of the list.
 
 
 def bubble_sort(nums: list[float]) -> list[float]:
-    for round in range(len(nums) - 1):
-        for index in range(len(nums) - round - 1):
+    for loop in range(len(nums) - 1):
+        for index in range(len(nums) - loop - 1):
             if nums[index] > nums[index + 1]:
                 nums[index], nums[index + 1] = nums[index + 1], nums[index]
 
