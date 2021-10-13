@@ -8,14 +8,14 @@
 
 <ul>
   <li><a href="https://projecteuler.net/problem=1">
-    Project Euler problem 3
+    Project Euler problem 1
   </a></li>
 
   <li><a href="https://projecteuler.net/overview=001">
-    Project Euler problem 3 solution overview
+    Project Euler problem 1 solution overview
   </a></li>
 
-  <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product">
-    Project Euler problem 3 at freeCodeCamp's Coding Interview Prep
+  <li><a href="https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5">
+    Project Euler problem 1 at freeCodeCamp's Coding Interview Prep
   </a></li>
 </ul>
